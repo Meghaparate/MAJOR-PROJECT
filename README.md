@@ -1,5 +1,5 @@
 LARGE LANGUAGE MODEL BASED LEGAL TEXT SUMMARIZATION
- Abstract  —Legal  judgments  are  generally  very  long,  and 
+Abstract  —Legal  judgments  are  generally  very  long,  and 
  relevant  information  is  often  scattered  throughout  the  text. 
  Summarizing  a  legal  judgment  requires  capturing  crucial 
  details  comprehensively  from  the  lengthy  content. 
