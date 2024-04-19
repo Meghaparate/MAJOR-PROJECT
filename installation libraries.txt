@@ -1,0 +1,13 @@
+Libraries to be installed using command prompt:
+pip install langchain
+pip install tiktoken
+pip install openai
+pip install pypdf
+pip install streamlit
+pip install PyPDF2
+pip install subprocess
+pip install nbformat
+pip install os
+pip install pyperclip
+pip install io
+pip install clipboard
